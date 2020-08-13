@@ -11,3 +11,4 @@ I plan to add the following tutorial scripts:
 Some other scripts will be added as well as examples that may be used as base code for bigger projects.
 
 - Yahoo stock pull
+  *A basic web scraper that pulls stock data from yahoo.com during the trading day
