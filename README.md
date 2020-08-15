@@ -4,7 +4,7 @@ The purpose of this repository is to hold some general Python scripts for teachi
 I plan to add the following tutorial scripts:
 
 1. Data types, logical & math operators, and simple data structures
-2. Conditional statements, loops, and functions
+2. Conditional statements, loops, error handling, and functions
 3. Object oriented programming
 4. Advanced data structures
 
