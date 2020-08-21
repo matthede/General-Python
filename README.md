@@ -1,6 +1,6 @@
 # General-Python
 
-The purpose of this repository is to hold some general Python scripts for teaching/tutoring and for examples that could be used if I teach later on.  
+The purpose of this repository is to hold some general Python scripts for teaching/tutoring and for reference
 I plan to add the following tutorial scripts:
 
 1. Data types, logical & math operators, and simple data structures
