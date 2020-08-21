@@ -12,3 +12,7 @@ Some other scripts will be added as well as examples that may be used as base co
 
 - Yahoo stock pull
   *A basic web scraper that pulls stock data from yahoo.com during the trading day
+   The while loop needs to be updated to run during 9:30 - 4 pm stock market time.  Will get to it eventually.
+   
+ - NBA game simulation
+   This program simulates an NBA game based off team statistics in the 2020 season.  Only two teams have been built in so far, and I still need to implement three pointers, free      throws, and turnovers.  
