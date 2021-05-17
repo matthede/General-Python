@@ -7,6 +7,8 @@ Created on Tue Aug 11 17:21:57 2020
 
 ################### Python Data Types #####################
 
+print('GitHub')
+
 int_ = 1
 
 float_ = 10.0
